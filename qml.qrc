@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomeForm.qml</file>
+        <file>PlaylistPage.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Settings.qml</file>
+        <file>resources/images/MyPlayer.png</file>
+        <file>myfunctions.js</file>
+        <file>resources/images/whiteField.png</file>
+        <file>resources/images/searchIcon.png</file>
+        <file>resources/images/searchIcon.svg</file>
+        <file>resources/images/pause.svg</file>
+        <file>resources/images/play.svg</file>
+        <file>resources/images/listIcon.svg</file>
+        <file>resources/images/next.svg</file>
+        <file>resources/images/previous.svg</file>
+        <file>resources/images/playNew.svg</file>
+        <file>resources/images/stop.svg</file>
+        <file>resources/images/playlist.svg</file>
+        <file>Playlist.qml</file>
+        <file>resources/images/MyPlayer.svg</file>
+        <file>resources/images/add.svg</file>
+        <file>resources/images/stopActive.svg</file>
+        <file>resources/images/folder.svg</file>
+        <file>resources/images/down.svg</file>
+    </qresource>
+</RCC>
